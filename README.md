@@ -3,17 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandre251387&label=Profile%20views&color=0e75b6&style=flat" alt="alexandre251387" /> </p>
 
-- 🔭 No momento estou trabalhando com java e springboot, em uma api para cadastro de livros: https://github.com/alexandre251387/apiBookStore
+- 🔭 No momento estou trabalhando com java e springboot, em uma api para cadastro de livros:
+https://github.com/alexandre251387/apiBookStore
 
-- 🌱 Atualmente estou aprendendo **Java e javascript**
+- 🌱 Atualmente estou com foco nas tecnologias Java, na construção de api's e javascript com php para a construção de front-end.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: https://github.com/alexandre251387
+- 👨‍💻 Todos os meus projetos estão disponíveis em:
+https://github.com/alexandre251387
 
-- 💬 Posso ajudar você nas seguintes tecnologias: Java, javascript, php, sql
+- 💬 Caso precise de ajuda em seus projetos posso ajudar você nas seguintes tecnologias: Java, javascript, php, sql e em desenvolvimento de sistemas web.
 
-- 📫 Para entrar em contato comigo, basta mandar um email para: ajfs2513@gmail.com
+- 📫 Para entrar em contato comigo, basta mandar um email para:
+ajfs2513@gmail.com
 
-- ⚡ Tenho experiências com: Desenvolvimento front-end, com javascript e php. Desenvolvimento back-end com java, php e sql. Desenvolvimento de sites e api's com spingboot.
+- ⚡ Minhas principais experiências são com:
+Desenvolvimento front-end, com javascript e php.
+Desenvolvimento back-end com java, php e sql.
+Desenvolvimento de sites
+Desenvolvimento de api's com spingboot.
 
 <h3 align="left">Contato:</h3>
 <p align="left">
